@@ -1861,9 +1861,18 @@
 	}
 
 /* Logo */
-
+	#Enrollment {
+		text-align: center;
+	}
 	#logo {
 		display: inline-block;
+
+	}
+
+	#footBallLogo {
+		display: inline-block;
+    background-image: url('../../images/logo.jpg');
+		background-size:100%;
 	}
 
 		#logo h1 {
