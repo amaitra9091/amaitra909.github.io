@@ -2594,6 +2594,10 @@
 
 			#copyright {
 				text-align: left;
-			}
 
+			}
+			.triviacenter {
+				margin-left: auto;
+				margin-right:auto;
+			}
 	}
